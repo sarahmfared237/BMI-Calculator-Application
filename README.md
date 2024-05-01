@@ -1,7 +1,7 @@
 
-## What you will create
+## BMI Calculator
 
-We’re going to make a Body Mass Index Calculator inspired by designs made by [Ruben Vaalt](https://dribbble.com/shots/4585382-Simple-BMI-Calculator). It will be a multi screen app with simple functionality but full-on custom styling. 
+Simple Body Mass Index Calculator inspired by designs made by [Ruben Vaalt](https://dribbble.com/shots/4585382-Simple-BMI-Calculator). It will be a multi screen app with simple functionality but full-on custom styling. 
 
 
 ## What have been learnt
